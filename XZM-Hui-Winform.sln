@@ -11,6 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XZMCommon", "XZMCommon\XZMC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XZMConfig", "XZMConfig\XZMConfig.csproj", "{2E4812B8-A464-44FD-9C76-3D768DCC143B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XZMHuiApi", "XZMHuiApi\XZMHuiApi.csproj", "{4D1CA65C-CCEA-43E8-8632-3646785381FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ultra", "ultra", "{CCC0422E-C5AA-4573-A4B8-37D33E8378DB}"
+	ProjectSection(SolutionItems) = preProject
+		ultraEditor.md = ultraEditor.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +40,10 @@ Global
 		{2E4812B8-A464-44FD-9C76-3D768DCC143B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E4812B8-A464-44FD-9C76-3D768DCC143B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E4812B8-A464-44FD-9C76-3D768DCC143B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1CA65C-CCEA-43E8-8632-3646785381FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1CA65C-CCEA-43E8-8632-3646785381FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1CA65C-CCEA-43E8-8632-3646785381FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1CA65C-CCEA-43E8-8632-3646785381FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
